@@ -62,7 +62,7 @@ cuda-deps = [
     # https://github.com/Dao-AILab/flash-attention/issues/188
     # https://github.com/Dao-AILab/flash-attention/issues/833#issuecomment-1953111510
     "packaging==24.1",
-    "wheel==0.43.0",
+    "wheel==0.46.2",
 ]
 
 # Packages that require nvcc to install.
